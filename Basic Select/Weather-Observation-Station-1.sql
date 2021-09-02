@@ -1,2 +1,3 @@
-# Author: Thomas George Thomas
-select city,State from station;
+# Author: Dawei
+select city, state
+from station;
