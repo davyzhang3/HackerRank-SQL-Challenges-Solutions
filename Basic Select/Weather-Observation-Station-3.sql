@@ -1,2 +1,4 @@
-# Author: Thomas George Thomas
-Select distinct city from station where ID%2=0;
+# Author: Dawei Zhang
+select distinct city 
+from station
+where id % 2 = 0;
