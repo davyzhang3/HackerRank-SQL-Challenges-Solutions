@@ -1,2 +1,4 @@
-# Author: Thomas George Thomas
-select name from city where CountryCode="JPN";
+# Author: Dawei Zhang
+select name
+from city
+where countrycode = 'JPN';
