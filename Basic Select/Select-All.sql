@@ -1,2 +1,3 @@
-# Author: Thomas George Thomas
-Select * from city
+# Author: Dawei
+Select * 
+from city;
